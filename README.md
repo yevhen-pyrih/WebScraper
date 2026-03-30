@@ -3,11 +3,12 @@
 ### Stages 1-3
 1. Prodive url address of product's opinions webpage
 2. Send the request to provided url address
-3. If status code is OK, fetch all opinions from requested webpage
-4. For all fetchedd opinions, parse them to extract relevant data
-5. Check if there is next page with opinions
-6. For all remaining pages repeat steps 2-5
-7. Save obtained opinions
+3. If status code is OK, fetch product name
+4. If status code is OK, fetch all opinions from requested webpage
+5. For all fetchedd opinions, parse them to extract relevant data
+6. Check if there is next page with opinions
+7. For all remaining pages repeat steps 2-5
+8. Save obtained opinions
 
 ## Project inputs
 ### Products codes
