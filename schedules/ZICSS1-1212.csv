@@ -1,51 +1,22 @@
-,Termin,"Dzień, godzina",Przedmiot,Typ,Nauczyciel,Sala
-0,2026-05-11,Pn 09:45 - 11:15 (2g.),Computer Programming 2,wykład,dr Katarzyna Wójcik,Paw.F 008
-1,2026-05-11,Pn 11:30 - 13:00 (2g.),Foreign Language I,lektorat,,Wybierz swoją grupę językową
-2,2026-05-11,Pn 15:45 - 18:15 (3g.),Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,"Paw.A 013 lab. Win10, Office21"
-3,2026-05-11,Pn 15:45 - 18:15 (3g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-4,2026-05-11,Pn 18:30 - 20:00 (2g.),,lektorat,,Wybierz swoją grupę językową
-5,2026-05-12,Wt 09:45 - 11:15 (2g.),Probability and Statistics,Przeniesienie zajęć,prof. dr hab. Andrzej Sokołowski,
-6,2026-05-12,Wt 09:45 - 11:15 (2g.),Zajęcia przeniesione na 02.06.2026r.,Zajęcia przeniesione na 02.06.2026r.,Zajęcia przeniesione na 02.06.2026r.,Zajęcia przeniesione na 02.06.2026r.
-7,2026-05-12,Wt 11:30 - 13:00 (2g.),Foreign Language I,lektorat,,Wybierz swoją grupę językową
-8,2026-05-12,Wt 13:15 - 14:45 (2g.),Probability and Statistics,Przeniesienie zajęć,prof. dr hab. Andrzej Sokołowski,
-9,2026-05-12,Wt 13:15 - 14:45 (2g.),Zajęcia przeniesione na 26.05.2026r.,Zajęcia przeniesione na 26.05.2026r.,Zajęcia przeniesione na 26.05.2026r.,Zajęcia przeniesione na 26.05.2026r.
-10,2026-05-12,Wt 18:30 - 20:00 (2g.),Business Law,wykład,dr Jacek Lachner,Rakowicka 16 sala 11
-11,2026-05-13,Śr 11:30 - 13:00 (2g.),Foreign Language I,lektorat,,Wybierz swoją grupę językową
-12,2026-05-13,Śr 13:15 - 14:45 (2g.),Information Systems,wykład,prof. UEK dr hab. Mariusz Grabowski,Paw.F 008
-13,2026-05-13,Śr 16:45 - 18:15 (2g.),Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.U sala N
-14,2026-05-13,Śr 16:45 - 18:15 (2g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-15,2026-05-14,Cz 09:45 - 11:15 (2g.),Information Systems,Przeniesienie zajęć,dr Agnieszka Niklewicz,
-16,2026-05-14,Cz 09:45 - 11:15 (2g.),CS gr 2 Zajęcia przeniesione na godz. 18:30,CS gr 2 Zajęcia przeniesione na godz. 18:30,CS gr 2 Zajęcia przeniesione na godz. 18:30,CS gr 2 Zajęcia przeniesione na godz. 18:30
-17,2026-05-14,Cz 11:30 - 13:00 (2g.),Foreign Language I,lektorat,,Wybierz swoją grupę językową
-18,2026-05-14,Cz 15:00 - 16:30 (2g.),Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.B 058 (KSB)
-19,2026-05-14,Cz 15:00 - 16:30 (2g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-20,2026-05-14,Cz 16:45 - 18:15 (2g.),Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,"Paw.A 07 lab. Win7, Office21"
-21,2026-05-14,Cz 16:45 - 18:15 (2g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-22,2026-05-14,Cz 18:30 - 20:00 (2g.),Information Systems,ćwiczenia,mgr inż. Justyna Olczak,Bibl.425
-23,2026-05-14,Cz 18:30 - 20:00 (2g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-24,2026-05-15,Pt 12:15 - 14:45 (3g.),Computer Programming 2,ćwiczenia zdalne,dr Katarzyna Wójcik,link do zajęć
-25,2026-05-15,Pt 12:15 - 14:45 (3g.),CS gr 2 Zajęcia zdalne okazjonalne,CS gr 2 Zajęcia zdalne okazjonalne,CS gr 2 Zajęcia zdalne okazjonalne,CS gr 2 Zajęcia zdalne okazjonalne
-26,2026-05-18,Pn 11:30 - 13:00 (2g.),Foreign Language I,lektorat,,Wybierz swoją grupę językową
-27,2026-05-18,Pn 15:45 - 18:15 (3g.),Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,"Paw.A 013 lab. Win10, Office21"
-28,2026-05-18,Pn 15:45 - 18:15 (3g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-29,2026-05-18,Pn 18:30 - 20:00 (2g.),,lektorat,,Wybierz swoją grupę językową
-30,2026-05-19,Wt 09:45 - 11:15 (2g.),Probability and Statistics,wykład,prof. dr hab. Andrzej Sokołowski,Paw.F 008
-31,2026-05-19,Wt 11:30 - 13:00 (2g.),Foreign Language I,lektorat,,Wybierz swoją grupę językową
-32,2026-05-19,Wt 15:00 - 16:30 (2g.),Discrete mathematics,wykład,dr Grzegorz Kosiorowski,Rakowicka 16 sala 11
-33,2026-05-19,Wt 18:30 - 20:00 (2g.),Business Law,wykład,dr Jacek Lachner,Rakowicka 16 sala 11
-34,2026-05-20,Śr 11:30 - 13:00 (2g.),Foreign Language I,lektorat,,Wybierz swoją grupę językową
-35,2026-05-20,Śr 16:45 - 18:15 (2g.),Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.U sala N
-36,2026-05-20,Śr 16:45 - 18:15 (2g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-37,2026-05-21,Cz 08:00 - 09:30 (2g.),Operating Systems and Computer Networks,wykład,prof. UEK dr hab. Joanna Wyrobek,Paw.F 008
-38,2026-05-21,Cz 11:30 - 13:00 (2g.),Foreign Language I,lektorat,,Wybierz swoją grupę językową
-39,2026-05-21,Cz 15:00 - 16:30 (2g.),Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.G 8
-40,2026-05-21,Cz 15:00 - 16:30 (2g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-41,2026-05-21,Cz 16:45 - 18:15 (2g.),Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,"Paw.A 07 lab. Win7, Office21"
-42,2026-05-21,Cz 16:45 - 18:15 (2g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-43,2026-05-21,Cz 18:30 - 20:00 (2g.),Information Systems,ćwiczenia,mgr inż. Justyna Olczak,Bibl.425
-44,2026-05-21,Cz 18:30 - 20:00 (2g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-45,2026-05-25,Pn 09:45 - 11:15 (2g.),Computer Programming 2,wykład,dr Katarzyna Wójcik,Paw.F 008
-46,2026-05-25,Pn 11:30 - 13:00 (2g.),Foreign Language I,lektorat,,Wybierz swoją grupę językową
-47,2026-05-25,Pn 15:45 - 18:15 (3g.),Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,"Paw.A 013 lab. Win10, Office21"
-48,2026-05-25,Pn 15:45 - 18:15 (3g.),CS gr 2,CS gr 2,CS gr 2,CS gr 2
-49,2026-05-25,Pn 18:30 - 20:00 (2g.),,lektorat,,Wybierz swoją grupę językową
+,Termin,Przedmiot,Typ,Nauczyciel,Sala,Day,Start time,End time,Duration
+5,2026-05-12,Business Law,wykład,dr Jacek Lachner,Rakowicka 16 sala 11,Wt,18:30,20:00,2
+7,2026-05-13,Information Systems,wykład,prof. UEK dr hab. Mariusz Grabowski,Paw.F 008,Śr,13:15,14:45,2
+8,2026-05-13,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.U sala N,Śr,16:45,18:15,2
+13,2026-05-14,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.B 058 (KSB),Cz,15:00,16:30,2
+15,2026-05-14,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 07 lab.,Cz,16:45,18:15,2
+17,2026-05-14,Information Systems,ćwiczenia,mgr inż. Justyna Olczak,Bibl.425,Cz,18:30,20:00,2
+22,2026-05-18,Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,Paw.A 013 lab.,Pn,15:45,18:15,3
+25,2026-05-19,Probability and Statistics,wykład,prof. dr hab. Andrzej Sokołowski,Paw.F 008,Wt,09:45,11:15,2
+27,2026-05-19,Discrete mathematics,wykład,dr Grzegorz Kosiorowski,Rakowicka 16 sala 11,Wt,15:00,16:30,2
+28,2026-05-19,Business Law,wykład,dr Jacek Lachner,Rakowicka 16 sala 11,Wt,18:30,20:00,2
+30,2026-05-20,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.U sala N,Śr,16:45,18:15,2
+32,2026-05-21,Operating Systems and Computer Networks,wykład,prof. UEK dr hab. Joanna Wyrobek,Paw.F 008,Cz,08:00,09:30,2
+34,2026-05-21,Discrete mathematics,ćwiczenia,dr Igor Sikora,Paw.G 8,Cz,15:00,16:30,2
+36,2026-05-21,Operating Systems and Computer Networks,ćwiczenia,prof. UEK dr hab. Joanna Wyrobek,Paw.A 07 lab.,Cz,16:45,18:15,2
+38,2026-05-21,Information Systems,ćwiczenia,mgr inż. Justyna Olczak,Bibl.425,Cz,18:30,20:00,2
+40,2026-05-25,Computer Programming 2,wykład,dr Katarzyna Wójcik,Paw.F 008,Pn,09:45,11:15,2
+42,2026-05-25,Computer Programming 2,ćwiczenia,dr Katarzyna Wójcik,Paw.A 013 lab.,Pn,15:45,18:15,3
+45,2026-05-26,Probability and Statistics,ćwiczenia,prof. dr hab. Andrzej Sokołowski,Paw.A 013 lab.,Wt,08:00,09:30,2
+47,2026-05-26,Probability and Statistics,wykład,prof. dr hab. Andrzej Sokołowski,Paw.F 008,Wt,09:45,11:15,2
+49,2026-05-26,Probability and Statistics,ćwiczenia,prof. dr hab. Andrzej Sokołowski,Paw.A 07 lab.,Wt,13:15,14:45,2
+51,2026-05-26,Business Law,wykład,dr Jacek Lachner,Rakowicka 16 sala 11,Wt,18:30,20:00,2
